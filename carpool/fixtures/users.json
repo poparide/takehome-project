@@ -1,0 +1,13 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "username": "driver123",
+            "first_name": "Max",
+            "last_name": "Power",
+            "email": "max@example.com"
+        }
+    }
+
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "fields": {
+            "creator": 1,
+            "origin": 1,
+            "destination": 2,
+            "departure_time": "2025-02-01T15:00:00+00:00",
+            "state": "open",
+            "num_seats_available": 3
+        },
+        "model": "trip.Trip",
+        "pk": 1
+    }
+]
