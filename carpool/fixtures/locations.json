@@ -1,18 +1,18 @@
 [
     {
         "fields": {
-            "name": "wololo",
-            "latitude": "1.1232",
-            "longitude": "23.132341"
+            "name": "Moraine Lake, AB",
+            "latitude": "51.3217",
+            "longitude": "116.1860"
         },
         "model": "location.Location",
         "pk": 1
     },
     {
         "fields": {
-            "name": "lelelee",
-            "latitude": "1.12322",
-            "longitude": "23.1323421"
+            "name": "Calgary, AB",
+            "latitude": "51.0447",
+            "longitude": "114.0719"
         },
         "model": "location.Location",
         "pk": 2
