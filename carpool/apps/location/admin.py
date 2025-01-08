@@ -1,5 +1,5 @@
-from django.contrib import admin
 from apps.location.models import Location
+from django.contrib import admin
 
 
 @admin.register(Location)
