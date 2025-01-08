@@ -1,7 +1,10 @@
 # Poparide Take-home project
 
-# Overview
-We've created a base project for you to work from with the intention of providing a bit of structure and save you time fiddling around with setup and config. You can change anything you like, but please stick with [Django Rest Framework.](https://www.django-rest-framework.org/).
+We've created a base project for you to work from with the intention of providing a bit of structure and save you time fiddling around with setup and config. You can change anything you like, but please stick with [Django Rest Framework](https://www.django-rest-framework.org/).
+
+## Instructions
+To get started, **Fork this project** or create a new repository from the template. Please make your copy public for easy review.
+
 
 ---
 
@@ -10,14 +13,17 @@ Your task is to create an API endpoint for users to request a ride on a `Trip`.
 
 The project simulates a carpool service where users can:
 - Post a `trip` as a **driver**.
-- Search for and request a ride as a **passenger**.
+- Request a ride as a **passenger**.
 
-We've created a basic `Trip` model and endpoint for listing trips as a starting point, but feel free to modify them as well as you see fit.
+We've created a basic `Trip` model and endpoint for listing trips as a starting point, but feel free to modify them as you see fit.
+
+### Scope
+Don't worry about the frontend, or searching for a Trip, unless it's necessary to your design (or you really want to :sweat_smile: ).
 
 ## How you'll be evaluated
 We'll use this project as the basis for our assessment of your coding skill as it relates to our team. We'll be looking for the following:
 - **Design**: How did you model the problem at hand? Is it maintainable & extendible? Have you thought about how it will change in the future?
-- **Code Quality**: Is your code clean, modular, & readable? Have you made appropriate use of the language/framework? Is your API consistent and adherent to REST principles?
+- **Code Quality**: Is your code clean, modular, & secure? Have you made appropriate use of the language/framework? Is your API consistent and adherent to REST principles?
 - **Testing**: Have you considered how you'd test your code?
 - **Documentation**: Did you provide context around your decisions and assumptions? Is the scope of the work clearly defined? (Please use the **Notes** Section below!)
 
@@ -54,6 +60,12 @@ To run the server locally:
 
 ```bash
 python manage.py runserver
+```
+
+To test:
+
+```bash
+python manage.py test
 ```
 
 ---
