@@ -3,7 +3,7 @@
 This project is used by Poparide to assess your technical skills and way of thinking as they pertain to our Product team. We've created a base template for you to work from with the intention of providing a bit of structure, and to save you time fiddling around with setup and config. You can change anything you like, but please stick with [Django Rest Framework](https://www.django-rest-framework.org/).
 
 ## Instructions
-To get started, **Fork this project** or create a new repository from the template. Please make your copy *private*. You should have received a list Github accounts belonging to your reviewers. Once ready, please invite them to collaborate so they can review your project.
+To get started, **create a new repository from this template**. Please make your copy *private*. You should have received a list Github accounts belonging to your reviewers. Once ready, please invite them to collaborate so they can review your project.
 
 
 ---
